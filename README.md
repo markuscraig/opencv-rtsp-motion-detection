@@ -15,5 +15,5 @@ Basic example of using OpenCV 2.4 to access an RTSP H.264 video stream from an I
 
 # Demo Video
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/uOWWz_5TU30/0.jpg)](http://www.youtube.com/watch?v=uOWWz_5TU30)
 
